@@ -1,4 +1,2 @@
 # Resources
 from the web
-# Web of Science检索技巧
-# https://blog.csdn.net/qq_43328313/article/details/125480112
